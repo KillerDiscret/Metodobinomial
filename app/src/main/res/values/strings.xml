@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">opcionesFinancieras</string>
+    <string name="opciones_financieras">OPCIONES FINANCIERAS</string>
+    <string name="metodo_basico">Método Básico</string>
+    <string name="m_todo_bloomberg">Método Bloomberg</string>
+    <string name="m_todo_black_scholes">Método Black-Scholes</string>
+    <string name="elija_un_m_todo_a_desarrollar">Elija un método a desarrollar ...</string>
+    <string name="title_activity_presentacion">presentacion</string>
+    <string name="integrantes">INTEGRANTES:</string>
+    <string name="carlos_porras_santos">Carlos Porras Santos</string>
+    <string name="textview">TextView</string>
+    <string name="joaqu_n_egocheaga_ramos">Joaquín Egocheaga Ramos</string>
+    <string name="jos_sanchez_reynoso">José Sanchez Reynoso</string>
+    <string name="julio_huarachi_macuri">Julio Huarachi Macuri</string>
+    <string name="toolbar_metodo">METODO BINOMAL</string>
+    <string name="precio_subyacente_s">Precio subyacente(S)</string>
+    <string name="precio_de_ejercicio_K">Precio de ejercicio(K)</string>
+    <string name="interes_libre_de_riesgo">Interes libre de riesgo(%)</string>
+    <string name="volatilidad">Volatilidad(Õ)</string>
+    <string name="tiempo_de_expiraci_n_dias">Tiempo de expiración(dias)</string>
+    <string name="probabilidad_de_xitos">Probabilidad de éxitos(%)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="opci_n_de_compra_c">Opción de compra (C)</string>
+    <string name="m_todo_binomial">Método Binomial</string>
+    <string name="igualdad">RESULTADO:</string>
+    <string name="m_todo_b_sico">Método Básico</string>
+</resources>
